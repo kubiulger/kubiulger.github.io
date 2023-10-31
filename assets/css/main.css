@@ -2597,7 +2597,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1d1511;
 		background-attachment: scroll,								scroll;
-		background-image:  url("../../images/bg.jpg");
+		background-image:  url("../../images/bg.jpeg");
 		background-position: top left,							top left;
 		background-repeat: no-repeat,								no-repeat;
 		background-size: auto,								150%;
