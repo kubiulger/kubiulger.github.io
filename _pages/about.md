@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oguzhan Kubilay Ulger"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
