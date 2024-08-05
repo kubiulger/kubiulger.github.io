@@ -1,9 +1,9 @@
 # Personal Website
 
-kubiulger.github.io
+[kubiulger.github.io](https://kubiulger.github.io/)
 
 # Template from: Academic Pages
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+https://github.com/academicpages/academicpages.github.io
 
 Academic Pages is a Github Pages template for academic websites.
