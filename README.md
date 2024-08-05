@@ -2,7 +2,7 @@
 
 [kubiulger.github.io](https://kubiulger.github.io/)
 
-# Template from: Academic Pages
+# Template from Academic Pages
 
 https://github.com/academicpages/academicpages.github.io
 
