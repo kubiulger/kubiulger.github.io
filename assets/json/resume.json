@@ -28,8 +28,8 @@
     {
       "institution": "New York University",
       "location": "Brooklyn, NY",
-      "url": "",
-      "area": "Advisor: Elza Erkip",
+      "url": "https://engineering.nyu.edu/",
+      "area": "Advisor: Elza Erkip, Related Courses:",
       "studyType": "PhD in Electrical and Computer Engineering",
       "startDate": "2020-09",
       "endDate": "Present",
@@ -41,8 +41,8 @@
     {
       "institution": "Bogazici University",
       "location": "Istanbul, Turkey",
-      "url": "",
-      "area": "Tandon School of Engineering",
+      "url": "https://bogazici.edu.tr/en_us",
+      "area": "Related Courses:",
       "studyType": "BSc in Electrical & Electronics Engineering",
       "studyType2": "BSc in Physics (Double Major)",
       "startDate": "2014-06",
