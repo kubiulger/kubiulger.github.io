@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD student, <a href='https://wireless.engineering.nyu.edu/'>NYU Wireless</a> and <a href='https://wp.nyu.edu/elza_erkip/'>CommIT Group at NYU</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>370 Jay Street, 9th Floor</p>
+    <p>Brooklyn, NY, 11201.</p>
+    <p>Email: <a href="mailto:kubi@nyu.edu">kubi@nyu.edu</a></p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fifth year PhD student in Electrical Engineering at New York University [Tandon School of Engineering](https://engineering.nyu.edu). I am part of the [NYU Wireless](https://wireless.engineering.nyu.edu) research center under the advisory of Professor Elza Erkip, [Commit Group](https://wp.nyu.edu/elza_erkip/). I received my B.S. in Electrical & Electronics Engineering and Physics (Double Major) from [Boğaziçi University](https://bogazici.edu.tr/en_US) (Istanbul, Turkey).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests are in Task-Oriented, Multiterminal Source Coding and Information Theory. I have previously worked on Physical Layer Security against Spoofing attacks. I enjoy working on Information Theory, Probability and Statistics and I have recently picked up an interest in Random Algorithms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside work, I like exploring the city and I drink lots of coffee.

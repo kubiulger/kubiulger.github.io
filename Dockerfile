@@ -8,10 +8,9 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     imagemagick \
     build-essential \
     zlib1g-dev \
-    python3-pip \
+    jupyter-nbconvert \
     inotify-tools procps && \
-    apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/* && \
-    pip install nbconvert --break-system-packages
+    apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \
