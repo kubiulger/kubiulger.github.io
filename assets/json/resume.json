@@ -82,10 +82,10 @@
       "url": "https://is.mpg.de/",
       "startDate": "2019-06",
       "endDate": "2019-08",
-      "summary": ["Deisgn and actuation of MRI-driven small-scale robots towards medical applications."],
+      "summary": ["Design and actuation of MRI-driven small-scale robots towards medical applications."],
       "highlights": [
       "Performed Experiments on actuation and localization of ferromagnetic micro robots in MRI systems.",
-      "Developed localization algorithm for to detect and track artifacts caused by ferromagnetic particles is MRI images."
+      "Developed localization algorithm to detect and track artifacts caused by ferromagnetic particles is MRI images."
     ]
     }
   ],
